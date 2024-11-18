@@ -1,0 +1,12 @@
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\bin\Debug\QlNhaHang_Thuong.exe.config
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\bin\Debug\QlNhaHang_Thuong.exe
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\bin\Debug\QlNhaHang_Thuong.pdb
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.csproj.AssemblyReference.cache
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.LoginWithManager.resources
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.Properties.Resources.resources
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.Role.resources
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.csproj.GenerateResource.cache
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.csproj.CoreCompileInputs.cache
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.exe
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.pdb
+D:\LTTQuan\BTL_QuanLiNhaHang\QlNhaHang_Thuong\QlNhaHang_Thuong\obj\Debug\QlNhaHang_Thuong.StaffManagement.resources
